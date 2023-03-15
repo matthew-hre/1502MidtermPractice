@@ -1,0 +1,15 @@
+Electronic;Venus as a Boy;Bjork;Debut;1993;true;A;
+Electronic;Sleep Dealer;Oneohtrix Point Never;Replica;2010;false;I;
+Rock;Lake Of Fire;Nirvana;MTV Unplugged;1991;Kurt Cobain;Kurt Cobain;
+Rock;Jeremy;Pearl Jam;Ten;1991;Eddie Vedder;Mike McCready;
+Rap;Folie A Deux;Mach-Hommy, Westside Gunn;Pray For Haiti;2021;true;Conductor Williams;
+Rock;Suck My Kiss;Red Hot Chili Peppers;Blood Sugar Sex Magik;1991;Anthony Kiedis;John Frusciante;
+Rock;Stupid Girl;Garbage;Garbage;1995;Shirley Manson;Butch Vig;
+Rap;Lean Beef Patty;JPEGMAFIA, Danny Brown;Scaring the Hoes, Vol. 1;2023;true;JPEGMAFIA;
+Rap;Can't Punk Me;JID, EARTHGANG;The Forever Story;2022;true;KAYTRANADA;
+Electronic;Sour Times;Portishead;Dummy;1994;true;A;
+Electronic;Dance Yrself Clean;LCD Soundsystem;This Is Happening;2010;true;A;
+Rock;I Bet on Losing Dogs;Mitski;Puberty 2;2016;Mitski;Mitski;
+Rock;The Distance;Cake;Fashion Nugget;1996;John McCrea;Xan McCurdy;
+Electronic;It's Summertime;The Flaming Lips;Yoshimi Battles the Pink Robots;2002;true;A;
+Rock;The Opposite;The Smile;A Light for Attracting Attention;2022;Thom Yorke;Jonny Greenwood;
